@@ -1,0 +1,21 @@
+[0.565s] Invoking command in '/home/ramon/zune_ws/src/zune': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/home/ramon/zune_ws/build/zune/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramon/zune_ws/install/zune/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/zune build --build-base /home/ramon/zune_ws/build/zune/build install --record /home/ramon/zune_ws/build/zune/install.log --single-version-externally-managed install_data
+[0.791s] running egg_info
+[0.791s] writing ../../build/zune/zune.egg-info/PKG-INFO
+[0.792s] writing dependency_links to ../../build/zune/zune.egg-info/dependency_links.txt
+[0.792s] writing entry points to ../../build/zune/zune.egg-info/entry_points.txt
+[0.792s] writing requirements to ../../build/zune/zune.egg-info/requires.txt
+[0.792s] writing top-level names to ../../build/zune/zune.egg-info/top_level.txt
+[0.793s] reading manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+[0.794s] adding license file 'LICENSE'
+[0.794s] writing manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+[0.794s] running build
+[0.794s] running build_py
+[0.795s] running install
+[0.795s] running install_lib
+[0.796s] running install_data
+[0.796s] running install_egg_info
+[0.797s] removing '/home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune-0.0.0-py3.10.egg-info' (and everything under it)
+[0.798s] Copying ../../build/zune/zune.egg-info to /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune-0.0.0-py3.10.egg-info
+[0.799s] running install_scripts
+[0.820s] writing list of installed files to '/home/ramon/zune_ws/build/zune/install.log'
+[0.845s] Invoked command in '/home/ramon/zune_ws/src/zune' returned '0': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/home/ramon/zune_ws/build/zune/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramon/zune_ws/install/zune/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/zune build --build-base /home/ramon/zune_ws/build/zune/build install --record /home/ramon/zune_ws/build/zune/install.log --single-version-externally-managed install_data

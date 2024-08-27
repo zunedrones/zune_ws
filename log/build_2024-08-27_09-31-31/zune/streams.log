@@ -1,0 +1,34 @@
+[0.604s] Invoking command in '/home/ramon/zune_ws/src/zune': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/home/ramon/zune_ws/build/zune/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramon/zune_ws/install/zune/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/zune build --build-base /home/ramon/zune_ws/build/zune/build install --record /home/ramon/zune_ws/build/zune/install.log --single-version-externally-managed install_data
+[0.830s] running egg_info
+[0.830s] creating ../../build/zune/zune.egg-info
+[0.831s] writing ../../build/zune/zune.egg-info/PKG-INFO
+[0.831s] writing dependency_links to ../../build/zune/zune.egg-info/dependency_links.txt
+[0.831s] writing entry points to ../../build/zune/zune.egg-info/entry_points.txt
+[0.831s] writing requirements to ../../build/zune/zune.egg-info/requires.txt
+[0.831s] writing top-level names to ../../build/zune/zune.egg-info/top_level.txt
+[0.831s] writing manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+[0.832s] reading manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+[0.833s] adding license file 'LICENSE'
+[0.833s] writing manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+[0.833s] running build
+[0.833s] running build_py
+[0.833s] creating /home/ramon/zune_ws/build/zune/build
+[0.833s] creating /home/ramon/zune_ws/build/zune/build/lib
+[0.833s] creating /home/ramon/zune_ws/build/zune/build/lib/zune
+[0.834s] copying zune/__init__.py -> /home/ramon/zune_ws/build/zune/build/lib/zune
+[0.834s] running install
+[0.834s] running install_lib
+[0.834s] creating /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune
+[0.834s] copying /home/ramon/zune_ws/build/zune/build/lib/zune/__init__.py -> /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune
+[0.835s] byte-compiling /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune/__init__.py to __init__.cpython-310.pyc
+[0.835s] running install_data
+[0.835s] creating /home/ramon/zune_ws/install/zune/share/ament_index
+[0.835s] creating /home/ramon/zune_ws/install/zune/share/ament_index/resource_index
+[0.835s] creating /home/ramon/zune_ws/install/zune/share/ament_index/resource_index/packages
+[0.835s] copying resource/zune -> /home/ramon/zune_ws/install/zune/share/ament_index/resource_index/packages
+[0.835s] copying package.xml -> /home/ramon/zune_ws/install/zune/share/zune
+[0.836s] running install_egg_info
+[0.837s] Copying ../../build/zune/zune.egg-info to /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune-0.0.0-py3.10.egg-info
+[0.837s] running install_scripts
+[0.857s] writing list of installed files to '/home/ramon/zune_ws/build/zune/install.log'
+[0.880s] Invoked command in '/home/ramon/zune_ws/src/zune' returned '0': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/home/ramon/zune_ws/build/zune/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramon/zune_ws/install/zune/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/zune build --build-base /home/ramon/zune_ws/build/zune/build install --record /home/ramon/zune_ws/build/zune/install.log --single-version-externally-managed install_data

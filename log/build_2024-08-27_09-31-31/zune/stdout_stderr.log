@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/zune/zune.egg-info
+writing ../../build/zune/zune.egg-info/PKG-INFO
+writing dependency_links to ../../build/zune/zune.egg-info/dependency_links.txt
+writing entry points to ../../build/zune/zune.egg-info/entry_points.txt
+writing requirements to ../../build/zune/zune.egg-info/requires.txt
+writing top-level names to ../../build/zune/zune.egg-info/top_level.txt
+writing manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+reading manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/zune/zune.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ramon/zune_ws/build/zune/build
+creating /home/ramon/zune_ws/build/zune/build/lib
+creating /home/ramon/zune_ws/build/zune/build/lib/zune
+copying zune/__init__.py -> /home/ramon/zune_ws/build/zune/build/lib/zune
+running install
+running install_lib
+creating /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune
+copying /home/ramon/zune_ws/build/zune/build/lib/zune/__init__.py -> /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune
+byte-compiling /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ramon/zune_ws/install/zune/share/ament_index
+creating /home/ramon/zune_ws/install/zune/share/ament_index/resource_index
+creating /home/ramon/zune_ws/install/zune/share/ament_index/resource_index/packages
+copying resource/zune -> /home/ramon/zune_ws/install/zune/share/ament_index/resource_index/packages
+copying package.xml -> /home/ramon/zune_ws/install/zune/share/zune
+running install_egg_info
+Copying ../../build/zune/zune.egg-info to /home/ramon/zune_ws/install/zune/lib/python3.10/site-packages/zune-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ramon/zune_ws/build/zune/install.log'
